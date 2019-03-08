@@ -1,11 +1,4 @@
-# Learning Objectives for Individual Work
+# Directions for exercise-1
 
-* Network activity
-* Remotes
-* Fetch/push
-* Branches
-* Student repositories
-* GitHub Classroom
-* Permissions
-* Exercises
-* Automated Testing
+* First, read the slides in slides-1 and slides-2
+* Second, answer the reflection questions at the end of slides-1
